@@ -5,5 +5,5 @@ export default defineEventHandler((event) => {
         permission: ['read', 'write']
     }
 
-    console.log(event.context.auth)
+    // console.log(event.context.auth)
 })
